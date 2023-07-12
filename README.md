@@ -1,4 +1,4 @@
-![image](https://github.com/Pawanihansi/SmartPlantWeb_FinalProject-LondonMet/assets/86376479/5386200e-32cc-4d40-875b-204594f644e9)# SmartPlantWeb_FinalProject-LondonMet
+SmartPlantWeb_FinalProject-LondonMet
 
 The agriculture sector is a vital part of the Sri Lankan economy. However, the plantation industry in Sri Lanka faces several challenges that are affecting its growth and sustainability. Planters are experiencing difficulties in communicating with plantation factories, which is causing problems in the industry.  Therefore, there is a need for a solution that can bridge the communication gap between planters and the plantation industry, as well as provide access to information and technology to improve the industry's growth.
 
